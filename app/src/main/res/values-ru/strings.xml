@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Маленький опросник</string>
+    <string name="question_1_string">Что такое Андроид?</string>
+    <string name="question_2_string">Какие основные два языка используются при разработке приложений под ОС Андроид?</string>
+    <string name="question_3_string">Как расшифровывается XML?</string>
+    <string name="question_4_string">Выберите области применения XML и Java в программах под Андроид</string>
+    <string name="question_5_string">Какой тип должен быть у переменной \"test\" в данном коде на Java?\n_____ test = \"Hello there\";</string>
+    <string name="question_1_answer_2_string">Мобильная операционная система</string>
+    <string name="question_1_answer_3_string">Странное животное</string>
+    <string name="question_1_answer_1_string">Вид робота</string>
+    <string name="question_2_answer_3_string">Английский</string>
+    <string name="question_4_answer_1_string">XML отвечает за логику приложения</string>
+    <string name="question_4_answer_2_string">XML отвечает за внешний вид приложения</string>
+    <string name="question_4_answer_3_string">Java отвечает за внешний вид приложения</string>
+    <string name="question_4_answer_4_string">Java отвечает за логику приложения</string>
+    <string name="submit">Проверить</string>
+    <string name="result_report_string_part_2">правильный(ых) ответ(а/ов)!\nПоздравляем!</string>
+    <string name="result_report_string_part_1">У Вас</string>
+    <string name="ask_for_answers">Пожалуйста, ответьте на все вопросы, и снова нажмите эту кнопку</string>
+</resources>

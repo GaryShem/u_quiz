@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz Project</string>
+    <string name="question_1_string">What is Android?</string>
+    <string name="question_2_string">What are the two main languages used to develop apps for Android OS?</string>
+    <string name="question_3_string">What does XML stand for?</string>
+    <string name="question_4_string">Choose the correct usage area of XML and Java in Android app</string>
+    <string name="question_5_string">What would be the correct type for variable \"test\" in the following Java code?\n_____ test = \"Hello there\";</string>
+    <string name="question_1_answer_1_string">A kind of robot</string>
+    <string name="question_1_answer_2_string">A mobile operating system</string>
+    <string name="question_1_answer_3_string">An exotic animal</string>
+    <string name="question_2_answer_1_string" translatable="false">C#</string>
+    <string name="question_2_answer_2_string" translatable="false">XML</string>
+    <string name="question_2_answer_3_string">English</string>
+    <string name="question_2_answer_4_string" translatable="false">Java</string>
+    <string name="question_3_answer_1_string" translatable="false">Extensible Markup Language</string>
+    <string name="question_3_answer_2_string" translatable="false">Extensible Mock-up Language</string>
+    <string name="question_3_answer_3_string" translatable="false">Expandable Markup Language</string>
+    <string name="question_4_answer_1_string">XML outlines app logic</string>
+    <string name="question_4_answer_2_string">XML outlines app appearance</string>
+    <string name="question_4_answer_3_string">Java outlines app logic</string>
+    <string name="question_4_answer_4_string">Java outlines app appearance</string>
+    <string name="submit">Submit</string>
+    <string name="result_report_string_part_2">correct answer(s)!\nCongratulations!</string>
+    <string name="result_report_string_part_1">You have</string>
+    <string name="ask_for_answers">Please answer all questions and push this button again</string>
+</resources>
